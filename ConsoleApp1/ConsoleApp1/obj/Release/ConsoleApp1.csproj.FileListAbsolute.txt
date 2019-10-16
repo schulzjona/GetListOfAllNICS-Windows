@@ -1,0 +1,6 @@
+C:\Users\Jona\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Jona\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\NetzwerkadapterListe.exe.config
+C:\Users\Jona\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\NetzwerkadapterListe.exe
+C:\Users\Jona\source\repos\ConsoleApp1\ConsoleApp1\bin\Release\NetzwerkadapterListe.pdb
+C:\Users\Jona\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\NetzwerkadapterListe.exe
+C:\Users\Jona\source\repos\ConsoleApp1\ConsoleApp1\obj\Release\NetzwerkadapterListe.pdb
