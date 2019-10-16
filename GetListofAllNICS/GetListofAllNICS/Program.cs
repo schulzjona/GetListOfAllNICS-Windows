@@ -13,13 +13,22 @@ namespace GetListofAllNICS
 
             foreach(NetworkInterface item in nics)
             {
-                Console.WriteLine();
-                Console.WriteLine("#####################");
-                Console.WriteLine(item.Id);
-                Console.WriteLine(item.Description);
-                Console.WriteLine(item.Name);
-                Console.WriteLine("#####################");
+                IPInterfaceProperties properties = item.GetIPProperties();
+
+                foreach (IPAddressInformation unicast in properties.UnicastAddresses)
+                {
+                    if (unicast.Address.AddressFamily.ToString() == "InterNetworkV6") continue;
+                    Console.WriteLine();
+                    Console.WriteLine("#####################");
+                    Console.WriteLine(item.Id);
+                    Console.WriteLine(item.Description);
+                    Console.WriteLine(item.Name);
+                    Console.WriteLine();
+                    Console.WriteLine(unicast.Address);
+                    Console.WriteLine("#####################");
+                }
             }
+            Console.ReadLine();
         }
     }
 }

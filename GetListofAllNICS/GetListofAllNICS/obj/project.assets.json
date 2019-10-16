@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jona\\source\\repos\\GetListofAllNICS\\GetListofAllNICS\\GetListofAllNICS.csproj",
+      "projectUniqueName": "C:\\Users\\Jona\\Documents\\GitHub\\GetListOfAllNICS-Windows\\GetListofAllNICS\\GetListofAllNICS\\GetListofAllNICS.csproj",
       "projectName": "GetListofAllNICS",
-      "projectPath": "C:\\Users\\Jona\\source\\repos\\GetListofAllNICS\\GetListofAllNICS\\GetListofAllNICS.csproj",
+      "projectPath": "C:\\Users\\Jona\\Documents\\GitHub\\GetListOfAllNICS-Windows\\GetListofAllNICS\\GetListofAllNICS\\GetListofAllNICS.csproj",
       "packagesPath": "C:\\Users\\Jona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jona\\source\\repos\\GetListofAllNICS\\GetListofAllNICS\\obj\\",
+      "outputPath": "C:\\Users\\Jona\\Documents\\GitHub\\GetListOfAllNICS-Windows\\GetListofAllNICS\\GetListofAllNICS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jona\\AppData\\Roaming\\NuGet\\NuGet.Config",

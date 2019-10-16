@@ -9,3 +9,14 @@ C:\Users\Jona\source\repos\GetListofAllNICS\GetListofAllNICS\obj\Debug\netcoreap
 C:\Users\Jona\source\repos\GetListofAllNICS\GetListofAllNICS\obj\Debug\netcoreapp3.0\GetListofAllNICS.AssemblyInfo.cs
 C:\Users\Jona\source\repos\GetListofAllNICS\GetListofAllNICS\obj\Debug\netcoreapp3.0\GetListofAllNICS.dll
 C:\Users\Jona\source\repos\GetListofAllNICS\GetListofAllNICS\obj\Debug\netcoreapp3.0\GetListofAllNICS.pdb
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\bin\Debug\netcoreapp3.0\GetListofAllNICS.exe
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\bin\Debug\netcoreapp3.0\GetListofAllNICS.deps.json
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\bin\Debug\netcoreapp3.0\GetListofAllNICS.runtimeconfig.json
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\bin\Debug\netcoreapp3.0\GetListofAllNICS.runtimeconfig.dev.json
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\bin\Debug\netcoreapp3.0\GetListofAllNICS.dll
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\bin\Debug\netcoreapp3.0\GetListofAllNICS.pdb
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\obj\Debug\netcoreapp3.0\GetListofAllNICS.csprojAssemblyReference.cache
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\obj\Debug\netcoreapp3.0\GetListofAllNICS.AssemblyInfoInputs.cache
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\obj\Debug\netcoreapp3.0\GetListofAllNICS.AssemblyInfo.cs
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\obj\Debug\netcoreapp3.0\GetListofAllNICS.dll
+C:\Users\Jona\Documents\GitHub\GetListOfAllNICS-Windows\GetListofAllNICS\GetListofAllNICS\obj\Debug\netcoreapp3.0\GetListofAllNICS.pdb
